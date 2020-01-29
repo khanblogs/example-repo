@@ -2,7 +2,5 @@
 hello world
 
 
-change from the other side
-
 
 resolving error
